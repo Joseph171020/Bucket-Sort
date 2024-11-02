@@ -1,0 +1,10 @@
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\bin\Debug\Bucket Sort.exe.config
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\bin\Debug\Bucket Sort.exe
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\bin\Debug\Bucket Sort.pdb
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket Sort.csproj.AssemblyReference.cache
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket_Sort.BucketSORT.resources
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket_Sort.Properties.Resources.resources
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket Sort.csproj.GenerateResource.cache
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket Sort.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket Sort.exe
+C:\Users\Joseph\source\repos\Bucket Sort\Bucket Sort\obj\Debug\Bucket Sort.pdb
